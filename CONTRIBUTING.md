@@ -21,12 +21,10 @@
 - [Сообщество XenForo на CYBERSPACE.Community](//cyberspace.community/forums/30/)
 - [Документация XenForo на CYBERSPACE.Wiki](//xenforo.cyberspace.wiki/)
 - [Сателлит XenForo](//xenforo.help/)
-
 - [Сообщество CYBERSPACE - Facebook](//facebook.com/cbrspc)
 - [Сообщество CYBERSPACE - ВКонтакте](//vk.com/cbrspc)
 - [Сообщество CYBERSPACE - Twitter](//twitter.com/cbrspc)
 - [Сообщество CYBERSPACE - YouTube](//youtube.com/user/cbrspc)
-
 - [Основная документация GitHub](//help.github.com/)
 - [Документация по GitHub Pull Request](//help.github.com/articles/using-pull-requests/)
 
