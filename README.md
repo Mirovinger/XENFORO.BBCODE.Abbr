@@ -15,5 +15,5 @@
 
 ## Ссылки
 
-- [Сообщество XenForo на CYBERSPACE.Community](http://cyberspace.community/forums/30/)
-- [Документация XenForo на CYBERSPACE.Wiki](http://xenforo.cyberspace.wiki/)
+- [Сообщество XenForo на CYBERSPACE.Community](//cyberspace.community/forums/30/)
+- [Документация XenForo на CYBERSPACE.Wiki](//xenforo.cyberspace.wiki/)
