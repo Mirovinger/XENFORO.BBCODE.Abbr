@@ -17,7 +17,5 @@
 
 - [Сотрудничество](CONTRIBUTING.md)
 - [Список изменений](CHANGELOG.md)
-- [Сотрудничество](CONTRIBUTING.md)
-- [Список изменений](CHANGELOG.md)
 - [Сообщество XenForo на CYBERSPACE.Community](//cyberspace.community/forums/30/)
 - [Документация XenForo на CYBERSPACE.Wiki](//xenforo.cyberspace.wiki/)
